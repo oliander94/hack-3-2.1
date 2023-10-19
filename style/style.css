@@ -1,0 +1,17 @@
+*{
+margin: 0;    
+}
+
+div{
+    position: relative;
+    width: 350px;
+    height: 150px;
+    background: lightcoral;
+}
+
+section{
+    position: absolute;
+    width: 300px;
+    height: 150px;
+    background: lightblue;
+}
